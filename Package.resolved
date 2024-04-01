@@ -21,10 +21,10 @@
     {
       "identity" : "sourcekitten",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/jpsim/SourceKitten.git",
+      "location" : "https://github.com/abidon/SourceKitten.git",
       "state" : {
-        "revision" : "b6dc09ee51dfb0c66e042d2328c017483a1a5d56",
-        "version" : "0.34.1"
+        "branch" : "main",
+        "revision" : "6a58acc60a3d804fed69ad0e7288a5e4e7e08005"
       }
     },
     {
